@@ -8,7 +8,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: "https://nycz-lab.github.io",
-  base: "NyxBlog",
+  base: "/NyxBlog",
   integrations: [
     tailwind({
       config: {
