@@ -12,10 +12,6 @@ description:
   some politics lesson
 ---
 
-2023-02-02
-#Politik 
-
-
 > ## Echtes Mitbestimmungsrecht
 > - Soziale Angelegenheiten
 > - Arbeitgeber & Arbeitnehmer entscheiden gemeinsam, ansonsten entscheidet ggf. die Einigungsstelle
