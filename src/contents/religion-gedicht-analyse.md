@@ -4,12 +4,11 @@ datetime: 2023-02-02T11:29:00Z
 title: Die Ballade vom Nachahmungstrieb
 slug: Die-Ballade-vom-Nachahmungstrieb
 featured: true
-draft: false
+draft: true
 tags:
   - school
 ogImage: ""
-description:
-  some religion lesson
+description: some religion lesson
 ---
 
 Es ist schon wahr: Nichts wirkt so rasch wie Gift!\
@@ -65,4 +64,3 @@ es nur wie die Erwachsenen gemacht." Erich Kastner
 ## Analyse
 
 > Die Kinder haben sich von Gesellschaft und Justizsystem bzw. öffentlicher Meinung beeinflussen lassen.
->

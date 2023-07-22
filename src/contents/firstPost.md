@@ -3,13 +3,12 @@ author: Nycz
 datetime: 2023-01-30T21:26:00Z
 title: The Beginning
 slug: first-post
-featured: true
+featured: false
 draft: false
 tags:
   - diary
 ogImage: ""
-description:
-  Just a hello to anyone reading this.
+description: Just a hello to anyone reading this.
 ---
 
 Hi there my name is Nick
@@ -18,6 +17,7 @@ I am a _software developer_ and started this blog to document my journey kind of
 Here are some Hello World programs in different programming languages...
 
 ## C++
+
 ```cpp
 #include <iostream>
 using std;
@@ -29,6 +29,7 @@ int main(int argc, char** argv){
 ```
 
 ## C
+
 ```c
 #include <stdio.h>
 
@@ -40,11 +41,13 @@ int main(int argc, char** argv){
 ```
 
 ## Python
+
 ```python
 print("Hello World!")
 ```
 
 ## Javascript
+
 ```javascript
 console.log("Hello World!");
 ```
